@@ -1,16 +1,17 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I'm Bhavana T E!<br><br>B.E. Graduate in Electronics & Communication Engineering<br><br>I am a B.E. graduate in Electronics and Communication Engineering with a strong interest in Networking, CCNA, Network Security, Cybersecurity, Windows & Linux Administration, and Cloud Computing.<br><br>Technical Skills:<br><br>Hardware: Motherboard, Processor, Types of Memory, SMPS<br><br>Windows Administration: Windows 10/11 Installation and Configuration, Disk Partitioning (MBR/GPT), File Systems, BitLocker, Hyper-V, Virtual Machines, Virtual Switches, RAID<br><br>Networking: OSI Model, TCP/IP Model, IPv4 Addressing, Subnetting, Network Types<br><br>CCNA: Cisco IOS CLI Configuration, Static Routing, Default Routing, DHCP, DNS, Telnet, SSH, VLANs, ACL, NAT, OSPF<br><br>Linux Administration: Red Hat Enterprise Linux (RHEL), User and Group Management, File Permissions, ACLs, Basic Linux Commands<br><br>Windows Server: Windows Server 2019, Active Directory Domain Services (AD DS), Domain Controller, FSMO Roles, DNS, DHCP, Organizational Unit (OU) Management, User and Group Management, VPN, iSCSI, Data Deduplication, Web Server<br><br>Cloud (AWS): IAM, EC2, EBS, EFS, S3, VPC, RDS, CloudWatch, CloudTrail, Security Groups<br><br>Cybersecurity & Network Security: Cybersecurity Fundamentals, Common Cyber Attacks, CIA Triad, Threats and Vulnerabilities, Authentication and Authorization, Firewalls, IDS/IPS, VPN, Encryption<br><br>Training & Internship<br><br>*Jetking Institute — Bengaluru<br><br>Completed Cloud Computing Professional with AI certification and internship training, gaining hands-on exposure to networking, Linux, Windows Server, virtualization, cloud computing, and related technologies.<br><br>*Inventeron Technologies — Bengaluru<br><br>Worked as a Trainee IoT Developer, gaining practical exposure to IoT technologies, Python, troubleshooting, and IoT-based development.<br><br>Projects:<br><br>*AI-Powered Border Security System: An AI and IoT-based security system integrating sensors, cameras, GPS, embedded devices, and a web dashboard for monitoring and security applications.<br><br>*IoT-Based Water Filling Machine: An automated water filling system using Arduino, sensors, IoT connectivity, and cloud-based monitoring.<br><br><br>I'm always interested in learning, exploring new technologies, working on practical projects, and connecting with professionals in Networking, Cloud, and Cybersecurity.<br><br> *Learn • Practice • Secure • Grow*<br>
 
-<!--
-**Bhavanate/Bhavanate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bhavana-t-e-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhavanatlk@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=BHAVANA T E&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=BHAVANA T E&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=BHAVANA T E&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
